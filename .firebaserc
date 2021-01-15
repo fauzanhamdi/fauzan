@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fauzanportfolio": {
+      "hosting": {
+        "fauzan": [
+          "fauzanportfolio"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fauzanportfolio"
+  }
+}
